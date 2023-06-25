@@ -1,3 +1,3 @@
-This repository contains the textbooks of my university. 
+CS Course Chronicles is a comprehensive collection of my academic journey throughout various computer science courses during my university term. This repository serves as a central hub for organizing and sharing my course-related materials, including lecture notes, assignments, projects, and insightful writings.
 
-I am happy if it is useful for someone.
+Please note that most of the notes are written in Persian and some of the in English. I will state this thing in the `README.md` of each folder.
