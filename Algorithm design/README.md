@@ -1,1 +1,1 @@
-The items in this folder can only be used by Persian readers because they are written in Persian.
+The items in this folder can only be used by Persian readers because the notes are written in Persian. 
